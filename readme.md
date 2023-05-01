@@ -3,9 +3,10 @@ This project uses the Floyd Warshall Alogrithm in recursive form
 
 There are no requirements for this project. 
 
-To run the project execute the following in your terminal 
+
 
 # Main Application
+To run the project execute the following in your terminal 
 ```bash
 ./Main.py
 ```

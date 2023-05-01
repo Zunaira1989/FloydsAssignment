@@ -28,7 +28,7 @@ if __name__ == '__main__':
     
     recursive_time = time.time() - started_at
     
-    print('It took the recursive function {}s to complete 50000 runs'.format(round(recursive_time,2)))
+    print('It took the recursive function {}s to complete 75000 runs'.format(round(recursive_time,2)))
     
     dist = [] 
     for i in graph:
@@ -44,7 +44,7 @@ if __name__ == '__main__':
     
     iterative_time = time.time() - started_at
     
-    print('It took the iterative function {}s to complete 50000 runs'.format(round(iterative_time,2)))
+    print('It took the iterative function {}s to complete 75000 runs'.format(round(iterative_time,2)))
     
     dist = [] 
     for i in graph:
