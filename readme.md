@@ -20,10 +20,18 @@ NO_PATH NO_PATH NO_PATH       0
 ```
 
 #Unit Test
-The project contains a single unit test for the function floydWarshall
+The project contains two unit test for the function floydWarshall and floydWarshallIternative
 
 To run the unit test open terminal and type 
 
 ```bash
 ./Test.py
+```
+
+
+#Performance
+The project contains a peformance test this can be run by opening terminal and typing the following command
+
+```bash
+./performancetest.py
 ```
